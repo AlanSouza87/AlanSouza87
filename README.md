@@ -3,7 +3,7 @@ Análise e Ciência de Dados | Python | Analista de Suporte Técnico Pleno
 
 - 🚀 Apaixonado pela interseção entre **tecnologia** e **negócios**!
 - 📚 Sempre em busca de **conhecimento** e **aprimoramento**!
-- 🌟 Pronto para explorar novas oportunidades!
+- 🌟 Pronto para explorar **novas oportunidades**!
 - 💻 Linguagem e Bibliotecas Mais Usadas:
 
 <div display = "inline">
