@@ -4,7 +4,7 @@ Análise e Ciência de Dados | Python | Analista de Suporte Técnico Pleno
 - 🚀 Apaixonado pela interseção entre **tecnologia** e **negócios**!
 - 📚 Sempre em busca de **conhecimento** e **aprimoramento**!
 - 🌟 Pronto para explorar **novas oportunidades**!
-- 💻 Linguagem e Bibliotecas Mais Usadas:
+- 💻 **Ferramentas** mais usadas:
 
 <div display = "inline">
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
