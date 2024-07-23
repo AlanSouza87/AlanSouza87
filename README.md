@@ -13,8 +13,11 @@ Análise e Ciência de Dados | Python | Analista de Suporte Técnico Pleno
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />          
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
 <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
-</div>
+</div><br>
 
+#### Pensamentos:
+- "Sem dados você é apenas uma pessoa qualquer com uma opinião." William Edwards Deming
+- "Faça o teu melhor, nas condições que você tem, enquanto não tem condições melhores para fazer melhor ainda." Mario Sergio Cortella
 
 #### Você também me encontra em:
 <a href="https://www.linkedin.com/in/alansouza87">
