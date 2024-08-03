@@ -11,7 +11,7 @@ Análise e Ciência de Dados | Python | Analista de Suporte Técnico Pleno
 &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp; 
-&nbsp;&nbsp;<img widht="50" height="50" src="https://github.com/user-attachments/assets/a80d02a6-a943-45c1-a873-d6ea9c6ce096" />&nbsp;&nbsp; 
+&nbsp;&nbsp;<img widht="50" height="50" src="https://github.com/user-attachments/assets/cb54cad4-ec35-46a0-9695-e9432ccf2a33" />&nbsp;&nbsp; 
 &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />&nbsp;&nbsp;
 </div><br>
