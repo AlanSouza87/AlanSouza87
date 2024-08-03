@@ -19,6 +19,8 @@ Análise e Ciência de Dados | Python | Analista de Suporte Técnico Pleno
 #### Pensamentos:
 - "Sem dados você é apenas uma pessoa qualquer com uma opinião." William Edwards Deming
 - "Faça o teu melhor, nas condições que você tem, enquanto não tem condições melhores para fazer melhor ainda." Mario Sergio Cortella
+<br>
+<br>
 
 #### Você também me encontra em:
 <a href="https://www.linkedin.com/in/alansouza87">
